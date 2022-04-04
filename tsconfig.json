@@ -5,12 +5,12 @@
     "baseUrl": "src",
     "paths": {
       "@/*": ["*"]
-    },                                      
-    "rootDirs": ["src"],
+    },
+    "rootDirs": ["./src"],
     "outDir": "dist",
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
-    "strict": true,
+    "strict": false,
     "skipLibCheck": true
-  }
+  },
 }
